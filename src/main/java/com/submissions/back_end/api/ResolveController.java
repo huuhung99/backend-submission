@@ -6,7 +6,6 @@ import com.submissions.back_end.api.response.ResponseCodeEnum;
 import com.submissions.back_end.error.BadRequestException;
 import com.submissions.back_end.model.Resolve;
 import com.submissions.back_end.model.ResolveStatistical;
-import com.submissions.back_end.repository.ResolveStatisticalMapper;
 import com.submissions.back_end.service.ResolveService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
